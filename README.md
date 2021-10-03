@@ -25,5 +25,5 @@ False
 ```
 ### Explanation
 
-.*\+ : Valid regex.  
-.*+: Has the error multiple repeat. Hence, it is invalid.
+`.*\+` : Valid regex.  
+`.*+` : Has the error multiple repeat. Hence, it is invalid.
